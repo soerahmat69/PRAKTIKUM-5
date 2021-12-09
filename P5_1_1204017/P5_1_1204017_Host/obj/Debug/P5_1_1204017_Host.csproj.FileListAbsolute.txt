@@ -1,0 +1,11 @@
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\bin\Debug\P5_1_1204017_Host.exe.config
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\bin\Debug\P5_1_1204017_Host.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\bin\Debug\P5_1_1204017_Host.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\bin\Debug\P5_1_1204017.dll
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\bin\Debug\P5_1_1204017.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.csprojResolveAssemblyReference.cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.Form1.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.Properties.Resources.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.csproj.GenerateResource.Cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_1_1204017\P5_1_1204017_Host\obj\Debug\P5_1_1204017_Host.pdb

@@ -1,0 +1,11 @@
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\bin\Debug\P5_2_1204017_TestClock.exe.config
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\bin\Debug\P5_2_1204017_TestClock.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\bin\Debug\P5_2_1204017_TestClock.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\bin\Debug\P5_2_1204017.dll
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\bin\Debug\P5_2_1204017.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.csprojResolveAssemblyReference.cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.Form1.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.Properties.Resources.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.csproj.GenerateResource.Cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_2_1204017\P5_2_1204017_TestClock\obj\Debug\P5_2_1204017_TestClock.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_1_1204017", "P5_1_1204017\P5_1_1204017.csproj", "{4F7811E7-67B2-4799-8112-4122D603DC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_1_1204017_Host", "P5_1_1204017_Host\P5_1_1204017_Host.csproj", "{252DF35C-67FF-4920-85FA-6988F8FFA125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7811E7-67B2-4799-8112-4122D603DC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7811E7-67B2-4799-8112-4122D603DC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7811E7-67B2-4799-8112-4122D603DC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7811E7-67B2-4799-8112-4122D603DC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252DF35C-67FF-4920-85FA-6988F8FFA125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252DF35C-67FF-4920-85FA-6988F8FFA125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252DF35C-67FF-4920-85FA-6988F8FFA125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252DF35C-67FF-4920-85FA-6988F8FFA125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\bin\Debug\P5_3_12040177.exe.config
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\bin\Debug\P5_3_12040177.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\bin\Debug\P5_3_12040177.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177_Start.csprojResolveAssemblyReference.cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177.Form1.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177.Properties.Resources.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177_Start.csproj.GenerateResource.Cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P5_3_12040177\P5_3_12040177\obj\Debug\P5_3_12040177.pdb
+C:\Users\Soerahmat\Documents\Visual Studio 2015\Projects\P5_3_12040177\P5_3_12040177\bin\Debug\P5_3_1204017.dll
+C:\Users\Soerahmat\Documents\Visual Studio 2015\Projects\P5_3_12040177\P5_3_12040177\bin\Debug\P5_3_1204017.pdb
